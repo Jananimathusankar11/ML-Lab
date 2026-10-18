@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RetinaAI — Diabetic Retinopathy Detection & Analysis System
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21-orange.svg)](https://www.tensorflow.org/)
@@ -261,3 +262,6 @@ ml project/
 
 ### Q3: How do I point to a different dataset directory?
 **Solution:** Go to **Settings** or **Dataset Explorer** in the dashboard and enter the absolute path (e.g. `D:\retina_data\dataset`). Click **"Switch / Apply Path"**. The engine will immediately validate the files, compute class distributions, and update the active training pipeline without altering the original files.
+=======
+# Machine-Learning-Lab
+>>>>>>> 0597ed32006f125974a595fac01f07053f2ee257
