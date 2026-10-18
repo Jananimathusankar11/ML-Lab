@@ -1,0 +1,22 @@
+{
+    "0": {
+        "name": "No DR",
+        "description": "No visible diabetic retinopathy lesions."
+    },
+    "1": {
+        "name": "Mild",
+        "description": "Presence of retinal microaneurysms only."
+    },
+    "2": {
+        "name": "Moderate",
+        "description": "Microaneurysms, cotton wool spots, hard exudates, minor hemorrhages."
+    },
+    "3": {
+        "name": "Severe",
+        "description": "Extensive intraretinal hemorrhages (>20 in 4 quadrants), venous beading."
+    },
+    "4": {
+        "name": "Proliferative DR",
+        "description": "Neovascularization and/or vitreous/preretinal hemorrhage."
+    }
+}

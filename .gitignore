@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# SQLite database files
+*.db-journal
+*.sqlite3-journal
+
+# Uploads and temporary artifacts
+backend/uploads/*.png
+backend/uploads/*.jpg
+backend/uploads/*.jpeg
+!backend/uploads/.gitkeep
+backend/reports/*
+!backend/reports/.gitkeep
+
+# Large Datasets
+dataset/
+train_images/
+test_images/
+
+# Editor directories
+.vscode/
+.idea/
+.DS_Store
